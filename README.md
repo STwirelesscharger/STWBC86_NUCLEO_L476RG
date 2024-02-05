@@ -1,0 +1,2 @@
+# STWBC86_NUCLEO_L476RG
+ use NUCLEO_L476RG board and I2C to download STWBC86 FW
