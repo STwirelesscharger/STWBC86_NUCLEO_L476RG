@@ -1,0 +1,5 @@
+[ST-INF]: chip_id: 86 chip_rev: 2 cust_id: 0 rom_id: 0x0118 patch_id: 0x1242 cfg_id: 0x120D pe_id: 0x01 pe_adc_id: 0x04 sys_err: 0x00000000 cut_id: 2
+[ST-INF]: chip_id: 86 chip_rev: 2 cust_id: 0 rom_id: 0x0118 patch_id: 0x1242 cfg_id: 0x120D pe_id: 0x01 pe_adc_id: 0x04 sys_err: 0x00000000 cut_id: 2
+[ST-INF]: patch_id - running|header: [0x1242|0x1242]
+[ST-INF]: cfg_id - running|header: [0x120D|0x120D]
+[ST-INF]: NVM programming is not required, both cfg and patch are up to date

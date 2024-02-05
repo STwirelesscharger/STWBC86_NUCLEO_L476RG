@@ -1,0 +1,66 @@
+[ST-INF]: chip_id: 86 chip_rev: 2 cust_id: 0 rom_id: 0x0118 patch_id: 0x0000 cfg_id: 0x1000 pe_id: 0x01 pe_adc_id: 0x04 sys_err: 0x00000800 cut_id: 2
+[ST-INF]: chip_id: 86 chip_rev: 2 cust_id: 0 rom_id: 0x0118 patch_id: 0x0000 cfg_id: 0x1000 pe_id: 0x01 pe_adc_id: 0x04 sys_err: 0x00000800 cut_id: 2
+[ST-INF]: patch_id - running|header: [0x0000|0x1242]
+[ST-INF]: cfg_id - running|header: [0x1000|0x120D]
+[ST-INF]: op_mode: 1
+[ST-INF]: reset and disable NVM loading
+[ST-INF]: op_mode: 1
+[ST-INF]: full erase in NVM
+[ST-INF]: writing patch into NVM
+[ST-INF]: writing sector 0
+[ST-INF]: writing sector 1
+[ST-INF]: writing sector 2
+[ST-INF]: writing sector 3
+[ST-INF]: writing sector 4
+[ST-INF]: writing sector 5
+[ST-INF]: writing sector 6
+[ST-INF]: writing sector 7
+[ST-INF]: writing sector 8
+[ST-INF]: writing sector 9
+[ST-INF]: writing sector 10
+[ST-INF]: writing sector 11
+[ST-INF]: writing sector 12
+[ST-INF]: writing sector 13
+[ST-INF]: writing sector 14
+[ST-INF]: writing sector 15
+[ST-INF]: writing sector 16
+[ST-INF]: writing sector 17
+[ST-INF]: writing sector 18
+[ST-INF]: writing sector 19
+[ST-INF]: writing sector 20
+[ST-INF]: writing sector 21
+[ST-INF]: writing sector 22
+[ST-INF]: writing sector 23
+[ST-INF]: writing sector 24
+[ST-INF]: writing sector 25
+[ST-INF]: writing sector 26
+[ST-INF]: writing sector 27
+[ST-INF]: writing sector 28
+[ST-INF]: writing sector 29
+[ST-INF]: writing sector 30
+[ST-INF]: writing sector 31
+[ST-INF]: writing sector 32
+[ST-INF]: writing sector 33
+[ST-INF]: writing sector 34
+[ST-INF]: writing sector 35
+[ST-INF]: writing sector 36
+[ST-INF]: writing sector 37
+[ST-INF]: writing sector 38
+[ST-INF]: writing sector 39
+[ST-INF]: writing sector 40
+[ST-INF]: writing sector 41
+[ST-INF]: writing sector 42
+[ST-INF]: writing sector 43
+[ST-INF]: writing sector 44
+[ST-INF]: writing sector 45
+[ST-INF]: writing sector 46
+[ST-INF]: writing sector 47
+[ST-INF]: writing sector 48
+[ST-INF]: writing sector 49
+[ST-INF]: writing cfg into NVM
+[ST-INF]: writing sector 62
+[ST-INF]: writing sector 63
+[ST-INF]: chip_id: 86 chip_rev: 2 cust_id: 0 rom_id: 0x0118 patch_id: 0x1242 cfg_id: 0x120D pe_id: 0x01 pe_adc_id: 0x04 sys_err: 0x00000000 cut_id: 2
+[ST-INF]: patch_id - running|header: [0x1242|0x1242]
+[ST-INF]: cfg_id - running|header: [0x120D|0x120D]
+[ST-INF]: NVM programming successfully
